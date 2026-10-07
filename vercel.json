@@ -1,0 +1,25 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/product",
+      "destination": "/product.html"
+    },
+    {
+      "source": "/order",
+      "destination": "/order.html"
+    },
+    {
+      "source": "/thankyou",
+      "destination": "/thankyou.html"
+    },
+    {
+      "source": "/admin",
+      "destination": "/admin.html"
+    }
+  ]
+}
